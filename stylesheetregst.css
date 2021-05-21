@@ -1,0 +1,22 @@
+body {
+    background-color: #dfafcf;
+}
+
+.heading {
+    padding: 20px;
+    margin: 40px 30px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+label {
+    font-weight: bold;
+    font-family: 'Abril Fatface', cursive;
+}
+.button {
+    text-align: center;
+    width: 100%;
+}
+.btn {
+    color: white;
+    font-weight: bold;
+}
